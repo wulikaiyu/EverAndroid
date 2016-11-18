@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="shudu_background">#ffe6f0ff</color>
+    <color name="shudu_hilite">#ffffffff</color>
+    <color name="shudu_light">#64c6d4ef</color>
+    <color name="shudu_dark">#6456648f</color>  
+</resources>
